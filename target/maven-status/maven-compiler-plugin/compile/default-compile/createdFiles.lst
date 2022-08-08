@@ -1,0 +1,3 @@
+com\maruthi\springdata\patientscheduling\entities\Room.class
+com\maruthi\springdata\patientscheduling\PatientschedulingApplication.class
+com\maruthi\springdata\patientscheduling\repos\RoomRepository.class
